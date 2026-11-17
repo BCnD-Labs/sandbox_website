@@ -7,8 +7,14 @@
       "excerpt": "A test post with two categories, a thumbnail and Featured.",
       "tags": [],
       "date": "2026-11-17T15:35:00.000Z",
-      "updated": "2026-11-17T15:38:28.457Z",
-      "markdown": " Updated to fix the thumbnail path.This post was written and scheduled in Blackwall, then committed to the repository by the scheduler."
+      "updated": "2026-11-17T15:44:18.481Z",
+      "markdown": " Updated to fix the thumbnail path.This post was written and scheduled in Blackwall, then committed to the repository by the scheduler.",
+      "categories": [
+        "Case Study",
+        "Web"
+      ],
+      "featured": true,
+      "thumbnail": "/img/thumb-2.png"
     }
   ]
 }
